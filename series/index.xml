@@ -3,11 +3,11 @@
   <channel>
     <title>Series on Mirthy Musings</title>
     <link>//mirthymusings.github.io/series/</link>
-    <description>Recent content in Series on Mirthy Musings</description>
+    <description>Mirthy Musings (Series)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="//mirthymusings.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//mirthymusings.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

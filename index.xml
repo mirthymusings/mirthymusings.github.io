@@ -3,11 +3,11 @@
   <channel>
     <title>Mirthy Musings</title>
     <link>//mirthymusings.github.io/</link>
-    <description>Recent content on Mirthy Musings</description>
+    <description>Mirthy Musings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="//mirthymusings.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//mirthymusings.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -16,7 +16,8 @@
       <pubDate>Tue, 12 May 2020 00:00:00 +0530</pubDate>
       
       <guid>//mirthymusings.github.io/about/</guid>
-      <description>I like to read. I like languages. Here, I jot down some of my thoughts on language, literature and some philosophy that comes an inevitable byproduct of thinking.</description>
+      <description>&lt;p&gt;I like to read. I like languages. Here, I jot down some of my thoughts on language, literature and some philosophy that comes an inevitable byproduct of thinking.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
